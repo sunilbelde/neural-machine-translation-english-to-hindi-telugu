@@ -3,7 +3,7 @@
 I have implemented Neural Machine Translation using Bahdanu Attention mechanism. The code is written using the TensorFlow library in Python. 
 I have used TensorFlow functionalities like tf.data.Dataset to manage the input pipeline, Model sub classing to create the model architecture
 
-Dataset Used : https://www.kaggle.com/aiswaryaramachandran/english-to-hindi-neural-machine-translation/data
+Dataset Used : https://www.kaggle.com/umasrikakollu72/hindi-english-truncated-corpus
 
 Some Results : 
 
