@@ -1,4 +1,4 @@
-# Neural Machine Translation - English to Hindi
+# Neural Machine Translation - English to Hindi and Telugu
 
 Implemented Neural Machine Translation using Bahdanu Attention mechanism. The code is written using the TensorFlow library in Python.Used Google Translate API to create dataset,
 used TensorFlow functionalities like tf.data.Dataset to manage the input pipeline, Model sub classing to create the model architecture
